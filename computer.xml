@@ -6,6 +6,7 @@
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
     <lastBuildDate>Mon, 27 Jul 2026 14:28:54 GMT</lastBuildDate>
+    <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>[2026/07] Arduino IDEではじめるFreeRTOS入門</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000133548</link>
