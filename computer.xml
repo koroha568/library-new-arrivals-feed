@@ -5,8 +5,15 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 22:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 22:00:05 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2025/12] Claude CodeによるAI駆動開発入門</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000086470</link>
+      <guid isPermaLink="false">oml-tilcod-1002000086470</guid>
+      <pubDate>Tue, 04 Aug 2026 22:00:05 GMT</pubDate>
+      <description>出版年月: 2025/12 / 著者: 平川 知秀／著 / 出版者: 技術評論社 / 新着として検知: 2026-08-04</description>
+    </item>
     <item>
       <title>[2026/07] ITエンジニアのためのMarkdown実践入門</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000136550</link>
@@ -419,13 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000126116</guid>
       <pubDate>Mon, 27 Jul 2026 13:49:54 GMT</pubDate>
       <description>出版年月: 2026/06 / 著者: 大村 あつし／著 / 出版者: 技術評論社 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] 次の戦争を人間が決めない日</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000134254</link>
-      <guid isPermaLink="false">oml-tilcod-1002000134254</guid>
-      <pubDate>Mon, 27 Jul 2026 13:48:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: 宮崎 正弘／著 / 出版者: ワニブックス / 新着として検知: 2026-07-27</description>
     </item>
   </channel>
 </rss>
