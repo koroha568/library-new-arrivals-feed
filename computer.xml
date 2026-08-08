@@ -5,8 +5,36 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 22:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 22:00:06 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/07] 頭のいい人はこう使う!ChatGPT・Gemini・Copilot・NotebookLM最強の活用術Q&amp;A</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000131182</link>
+      <guid isPermaLink="false">oml-tilcod-1002000131182</guid>
+      <pubDate>Sat, 08 Aug 2026 22:00:06 GMT</pubDate>
+      <description>出版年月: 2026/07 / 出版者: 宝島社 / 新着として検知: 2026-08-08</description>
+    </item>
+    <item>
+      <title>[2026/06] AI副業の「わからない!」をぜんぶ解決する本</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000129043</link>
+      <guid isPermaLink="false">oml-tilcod-1002000129043</guid>
+      <pubDate>Sat, 08 Aug 2026 21:59:06 GMT</pubDate>
+      <description>出版年月: 2026/06 / 出版者: 宝島社 / 新着として検知: 2026-08-08</description>
+    </item>
+    <item>
+      <title>[2026/05] テクノ・クーデター</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000126342</link>
+      <guid isPermaLink="false">oml-tilcod-1002000126342</guid>
+      <pubDate>Sat, 08 Aug 2026 21:58:06 GMT</pubDate>
+      <description>出版年月: 2026/05 / 著者: マリエッチェ・スハーケ／著 / 出版者: 早川書房 / 新着として検知: 2026-08-08</description>
+    </item>
+    <item>
+      <title>[2026/05] マネるだけ!ChatGPT・Gemini・Copilotかんたん使いこなしBOOK</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000125109</link>
+      <guid isPermaLink="false">oml-tilcod-1002000125109</guid>
+      <pubDate>Sat, 08 Aug 2026 21:57:06 GMT</pubDate>
+      <description>出版年月: 2026/05 / 出版者: 扶桑社 / 新着として検知: 2026-08-08</description>
+    </item>
     <item>
       <title>[2026/01] 実践Claude Code入門</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000092689</link>
@@ -398,34 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000135070</guid>
       <pubDate>Mon, 27 Jul 2026 13:55:54 GMT</pubDate>
       <description>出版年月: 2026/06 / 著者: 杉浦 哲郎／著 / 出版者: 講談社 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] 3ステップでしっかり学ぶJava入門</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000128799</link>
-      <guid isPermaLink="false">oml-tilcod-1002000128799</guid>
-      <pubDate>Mon, 27 Jul 2026 13:54:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: アンク／著 / 出版者: 技術評論社 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] 世界を壊したビッグテックの悪党ども</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000133227</link>
-      <guid isPermaLink="false">oml-tilcod-1002000133227</guid>
-      <pubDate>Mon, 27 Jul 2026 13:53:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: カーラ・スウィッシャー／著 / 出版者: 講談社 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] ゼロから作るDeep Learning</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000129083</link>
-      <guid isPermaLink="false">oml-tilcod-1002000129083</guid>
-      <pubDate>Mon, 27 Jul 2026 13:52:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: 斎藤 康毅／著 / 出版者: オライリー・ジャパン / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] 体験しながら学ぶIPv6技術&amp;設計入門</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000128870</link>
-      <guid isPermaLink="false">oml-tilcod-1002000128870</guid>
-      <pubDate>Mon, 27 Jul 2026 13:51:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: みやた ひろし／著 / 出版者: SBクリエイティブ / 新着として検知: 2026-07-27</description>
     </item>
   </channel>
 </rss>
