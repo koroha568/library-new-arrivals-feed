@@ -5,8 +5,29 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 22:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 22:00:04 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/07] 生成AI時代の情報検索入門</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000140633</link>
+      <guid isPermaLink="false">oml-tilcod-1002000140633</guid>
+      <pubDate>Wed, 12 Aug 2026 22:00:04 GMT</pubDate>
+      <description>出版年月: 2026/07 / 著者: 上岡 真紀子／編著 / 出版者: 慶應義塾大学出版会 / 新着として検知: 2026-08-12</description>
+    </item>
+    <item>
+      <title>[2026/07] 生成AIという新しいパートナー</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000137838</link>
+      <guid isPermaLink="false">oml-tilcod-1002000137838</guid>
+      <pubDate>Wed, 12 Aug 2026 21:59:04 GMT</pubDate>
+      <description>出版年月: 2026/07 / 著者: 島田 裕巳／著 / 出版者: 読書人 / 新着として検知: 2026-08-12</description>
+    </item>
+    <item>
+      <title>[2026/07] ランサムウェア攻撃対応の実務</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000138845</link>
+      <guid isPermaLink="false">oml-tilcod-1002000138845</guid>
+      <pubDate>Wed, 12 Aug 2026 21:58:04 GMT</pubDate>
+      <description>出版年月: 2026/07 / 著者: 山岡 裕明／著 / 出版者: 中央経済社 / 新着として検知: 2026-08-12</description>
+    </item>
     <item>
       <title>[2026/07] 頭のいい人はこう使う!ChatGPT・Gemini・Copilot・NotebookLM最強の活用術Q&amp;A</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000131182</link>
@@ -405,27 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000134977</guid>
       <pubDate>Mon, 27 Jul 2026 13:58:54 GMT</pubDate>
       <description>出版年月: 2026/06 / 著者: 倉嶌 洋輔／著 / 出版者: 日経BP / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] スッキリわかるJava入門</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000133500</link>
-      <guid isPermaLink="false">oml-tilcod-1002000133500</guid>
-      <pubDate>Mon, 27 Jul 2026 13:57:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: 中山 清喬／著 / 出版者: インプレス / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] スッキリわかるJava入門</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000133501</link>
-      <guid isPermaLink="false">oml-tilcod-1002000133501</guid>
-      <pubDate>Mon, 27 Jul 2026 13:56:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: 中山 清喬／著 / 出版者: インプレス / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] ステップアップPython</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000135070</link>
-      <guid isPermaLink="false">oml-tilcod-1002000135070</guid>
-      <pubDate>Mon, 27 Jul 2026 13:55:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: 杉浦 哲郎／著 / 出版者: 講談社 / 新着として検知: 2026-07-27</description>
     </item>
   </channel>
 </rss>
