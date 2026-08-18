@@ -5,8 +5,15 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 22:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 22:00:04 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/07] AIと一緒に深める思考力</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000138952</link>
+      <guid isPermaLink="false">oml-tilcod-1002000138952</guid>
+      <pubDate>Tue, 18 Aug 2026 22:00:04 GMT</pubDate>
+      <description>出版年月: 2026/07 / 著者: 森 巧尚／著 / 出版者: マイナビ出版 / 新着として検知: 2026-08-18</description>
+    </item>
     <item>
       <title>[2026/07] 生成AI時代の情報検索入門</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000140633</link>
@@ -419,13 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000130965</guid>
       <pubDate>Mon, 27 Jul 2026 13:59:54 GMT</pubDate>
       <description>出版年月: 2026/06 / 著者: 土居 健太郎／著 / 出版者: 技術評論社 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] 自由な時間と仕事の成果が手に入るAI時間術</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000134977</link>
-      <guid isPermaLink="false">oml-tilcod-1002000134977</guid>
-      <pubDate>Mon, 27 Jul 2026 13:58:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: 倉嶌 洋輔／著 / 出版者: 日経BP / 新着として検知: 2026-07-27</description>
     </item>
   </channel>
 </rss>
