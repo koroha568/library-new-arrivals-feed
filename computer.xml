@@ -5,8 +5,22 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 22:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 22:00:04 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/08] インスタでつくるママのおうちキャリア</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000139898</link>
+      <guid isPermaLink="false">oml-tilcod-1002000139898</guid>
+      <pubDate>Fri, 21 Aug 2026 22:00:04 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: 神野 まき／著 / 出版者: ビジネス社 / 新着として検知: 2026-08-21</description>
+    </item>
+    <item>
+      <title>[2026/08] 70歳からのスマホAI生活</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000142933</link>
+      <guid isPermaLink="false">oml-tilcod-1002000142933</guid>
+      <pubDate>Fri, 21 Aug 2026 21:59:04 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: 吉田 昻平／著 / 出版者: Gakken / 新着として検知: 2026-08-21</description>
+    </item>
     <item>
       <title>[2026/07] AIと一緒に深める思考力</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000138952</link>
@@ -412,20 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000133271</guid>
       <pubDate>Mon, 27 Jul 2026 14:01:54 GMT</pubDate>
       <description>出版年月: 2026/06 / 著者: 末吉 宏臣／著 / 出版者: ソーテック社 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] これ1冊でできる!ラズベリー・パイ超入門</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000132990</link>
-      <guid isPermaLink="false">oml-tilcod-1002000132990</guid>
-      <pubDate>Mon, 27 Jul 2026 14:00:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: 福田 和宏／著 / 出版者: ソーテック社 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] 10年つかえるSEOの基本</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000130965</link>
-      <guid isPermaLink="false">oml-tilcod-1002000130965</guid>
-      <pubDate>Mon, 27 Jul 2026 13:59:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: 土居 健太郎／著 / 出版者: 技術評論社 / 新着として検知: 2026-07-27</description>
     </item>
   </channel>
 </rss>
