@@ -5,8 +5,22 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 22:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 22:00:05 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/03] 作ってわかる大規模言語モデルの仕組み</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000112533</link>
+      <guid isPermaLink="false">oml-tilcod-1002000112533</guid>
+      <pubDate>Sun, 23 Aug 2026 22:00:05 GMT</pubDate>
+      <description>出版年月: 2026/03 / 著者: 井上 顧基／著 / 出版者: 日経BP / 新着として検知: 2026-08-23</description>
+    </item>
+    <item>
+      <title>[2026/01] Kaggleではじめる大規模言語モデル入門</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000097471</link>
+      <guid isPermaLink="false">oml-tilcod-1002000097471</guid>
+      <pubDate>Sun, 23 Aug 2026 21:59:05 GMT</pubDate>
+      <description>出版年月: 2026/01 / 著者: 高野 海斗／編著 / 出版者: 講談社 / 新着として検知: 2026-08-23</description>
+    </item>
     <item>
       <title>[2026/08] インスタでつくるママのおうちキャリア</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000139898</link>
@@ -412,20 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000130273</guid>
       <pubDate>Mon, 27 Jul 2026 14:03:54 GMT</pubDate>
       <description>出版年月: 2026/06 / 著者: 佐藤 亮／著 / 出版者: 技術評論社 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] グーグルの最強AI Gemini活用術</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000132643</link>
-      <guid isPermaLink="false">oml-tilcod-1002000132643</guid>
-      <pubDate>Mon, 27 Jul 2026 14:02:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: 鈴木 眞里子／著 / 出版者: 日経BP日本経済新聞出版 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/06] 言語化とnote発信の全技術</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000133271</link>
-      <guid isPermaLink="false">oml-tilcod-1002000133271</guid>
-      <pubDate>Mon, 27 Jul 2026 14:01:54 GMT</pubDate>
-      <description>出版年月: 2026/06 / 著者: 末吉 宏臣／著 / 出版者: ソーテック社 / 新着として検知: 2026-07-27</description>
     </item>
   </channel>
 </rss>
