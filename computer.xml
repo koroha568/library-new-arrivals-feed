@@ -5,8 +5,22 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Aug 2026 22:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:00:05 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/08] この1冊でしっかりわかるNotebookLMの教科書</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000143189</link>
+      <guid isPermaLink="false">oml-tilcod-1002000143189</guid>
+      <pubDate>Fri, 28 Aug 2026 22:00:05 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: AI Evo Project／編 / 出版者: SBクリエイティブ / 新着として検知: 2026-08-28</description>
+    </item>
+    <item>
+      <title>[2025/06] 関越ソフトウェア株式会社40年史</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000131982</link>
+      <guid isPermaLink="false">oml-tilcod-1002000131982</guid>
+      <pubDate>Fri, 28 Aug 2026 21:59:05 GMT</pubDate>
+      <description>出版年月: 2025/06 / 出版者: 関越ソフトウェア / 新着として検知: 2026-08-28</description>
+    </item>
     <item>
       <title>[2026/08] オブジェクト指向UIデザイン</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000140369</link>
@@ -412,20 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000134349</guid>
       <pubDate>Mon, 27 Jul 2026 14:27:54 GMT</pubDate>
       <description>出版年月: 2026/07 / 著者: 北村 拓也／著 / 出版者: 秀和システム新社 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/07] AIのトリセツ</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000135680</link>
-      <guid isPermaLink="false">oml-tilcod-1002000135680</guid>
-      <pubDate>Mon, 27 Jul 2026 14:26:54 GMT</pubDate>
-      <description>出版年月: 2026/07 / 著者: 黒川 伊保子／著 / 出版者: 扶桑社 / 新着として検知: 2026-07-27</description>
-    </item>
-    <item>
-      <title>[2026/07] 生成AIの安全性入門</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000133881</link>
-      <guid isPermaLink="false">oml-tilcod-1002000133881</guid>
-      <pubDate>Mon, 27 Jul 2026 14:25:54 GMT</pubDate>
-      <description>出版年月: 2026/07 / 著者: 綿岡 晃輝／著 / 出版者: 技術評論社 / 新着として検知: 2026-07-27</description>
     </item>
   </channel>
 </rss>
