@@ -5,8 +5,78 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 22:00:06 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/09] DNSマスターブック</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000146771</link>
+      <guid isPermaLink="false">oml-tilcod-1002000146771</guid>
+      <pubDate>Sun, 13 Sep 2026 22:00:06 GMT</pubDate>
+      <description>出版年月: 2026/09 / 著者: 山口 崇徳／著 / 出版者: 技術評論社 / 新着として検知: 2026-09-13</description>
+    </item>
+    <item>
+      <title>[2026/08] アテンション資本論</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000146313</link>
+      <guid isPermaLink="false">oml-tilcod-1002000146313</guid>
+      <pubDate>Sun, 13 Sep 2026 21:59:06 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: 谷島 貫太／著 / 出版者: 新曜社 / 新着として検知: 2026-09-13</description>
+    </item>
+    <item>
+      <title>[2026/08] AIインターフェースデザイン</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000145153</link>
+      <guid isPermaLink="false">oml-tilcod-1002000145153</guid>
+      <pubDate>Sun, 13 Sep 2026 21:58:06 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: Louise Macfadyen／著 / 出版者: オライリー・ジャパン / 新着として検知: 2026-09-13</description>
+    </item>
+    <item>
+      <title>[2026/08] AI白書</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000146744</link>
+      <guid isPermaLink="false">oml-tilcod-1002000146744</guid>
+      <pubDate>Sun, 13 Sep 2026 21:57:06 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: 岩澤 有祐／監修 / 出版者: 角川アスキー総合研究所 / 新着として検知: 2026-09-13</description>
+    </item>
+    <item>
+      <title>[2026/08] 完全解説!Claude Codeテクニック集</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000146663</link>
+      <guid isPermaLink="false">oml-tilcod-1002000146663</guid>
+      <pubDate>Sun, 13 Sep 2026 21:56:06 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: 齊藤 貴義／著 / 出版者: インプレス / 新着として検知: 2026-09-13</description>
+    </item>
+    <item>
+      <title>[2026/08] Claude Code実践入門</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000146341</link>
+      <guid isPermaLink="false">oml-tilcod-1002000146341</guid>
+      <pubDate>Sun, 13 Sep 2026 21:55:06 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: Oikon／著 / 出版者: SBクリエイティブ / 新着として検知: 2026-09-13</description>
+    </item>
+    <item>
+      <title>[2026/08] Claude Code徹底活用術</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000144819</link>
+      <guid isPermaLink="false">oml-tilcod-1002000144819</guid>
+      <pubDate>Sun, 13 Sep 2026 21:54:06 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: ひつじ／著 / 出版者: 日本実業出版社 / 新着として検知: 2026-09-13</description>
+    </item>
+    <item>
+      <title>[2026/08] 初歩からのデータサイエンス</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000144805</link>
+      <guid isPermaLink="false">oml-tilcod-1002000144805</guid>
+      <pubDate>Sun, 13 Sep 2026 21:53:06 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: 和田 裕一／著 / 出版者: 共立出版 / 新着として検知: 2026-09-13</description>
+    </item>
+    <item>
+      <title>[2026/08] Python Web開発実践入門</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000145221</link>
+      <guid isPermaLink="false">oml-tilcod-1002000145221</guid>
+      <pubDate>Sun, 13 Sep 2026 21:52:06 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: 陶山 嶺／著 / 出版者: 技術評論社 / 新着として検知: 2026-09-13</description>
+    </item>
+    <item>
+      <title>[2026/08] ランサムウェア攻撃対策マニュアル</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000145147</link>
+      <guid isPermaLink="false">oml-tilcod-1002000145147</guid>
+      <pubDate>Sun, 13 Sep 2026 21:51:06 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: 面 和毅／著 / 出版者: 技術評論社 / 新着として検知: 2026-09-13</description>
+    </item>
     <item>
       <title>[2026/08] AGI</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000145258</link>
@@ -356,76 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000112864</guid>
       <pubDate>Thu, 27 Aug 2026 21:43:04 GMT</pubDate>
       <description>出版年月: 2026/04 / 著者: ナカドウガ／著 / 出版者: エムディエヌコーポレーション / 新着として検知: 2026-08-27</description>
-    </item>
-    <item>
-      <title>[2026/04] WebデザイナーのためのFigmaスタートブック</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000112866</link>
-      <guid isPermaLink="false">oml-tilcod-1002000112866</guid>
-      <pubDate>Thu, 27 Aug 2026 21:42:04 GMT</pubDate>
-      <description>出版年月: 2026/04 / 著者: 浅野 桜／著 / 出版者: シーアンドアール研究所 / 新着として検知: 2026-08-27</description>
-    </item>
-    <item>
-      <title>[2026/04] やりたい!ができるDify</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000113286</link>
-      <guid isPermaLink="false">oml-tilcod-1002000113286</guid>
-      <pubDate>Thu, 27 Aug 2026 21:41:04 GMT</pubDate>
-      <description>出版年月: 2026/04 / 著者: KEITO／著 / 出版者: インプレス / 新着として検知: 2026-08-27</description>
-    </item>
-    <item>
-      <title>[2026/00] 無料で使える!60歳からの最新AI ChatGPT&amp;Gemini世界一わかりやすい安心・安全・便利な使い方Q&amp;A大全</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000137167</link>
-      <guid isPermaLink="false">oml-tilcod-1002000137167</guid>
-      <pubDate>Thu, 27 Aug 2026 21:40:04 GMT</pubDate>
-      <description>出版年月: 2026/00 / 著者: 岡嶋 裕史／監修 / 出版者: 文響社 / 新着として検知: 2026-08-27</description>
-    </item>
-    <item>
-      <title>[2025/01] 図解入門TCP/IP</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000001478</link>
-      <guid isPermaLink="false">oml-tilcod-1002000001478</guid>
-      <pubDate>Mon, 24 Aug 2026 22:00:05 GMT</pubDate>
-      <description>出版年月: 2025/01 / 著者: みやた ひろし／著 / 出版者: SBクリエイティブ / 新着として検知: 2026-08-24</description>
-    </item>
-    <item>
-      <title>[2026/03] 作ってわかる大規模言語モデルの仕組み</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000112533</link>
-      <guid isPermaLink="false">oml-tilcod-1002000112533</guid>
-      <pubDate>Sun, 23 Aug 2026 22:00:05 GMT</pubDate>
-      <description>出版年月: 2026/03 / 著者: 井上 顧基／著 / 出版者: 日経BP / 新着として検知: 2026-08-23</description>
-    </item>
-    <item>
-      <title>[2026/01] Kaggleではじめる大規模言語モデル入門</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000097471</link>
-      <guid isPermaLink="false">oml-tilcod-1002000097471</guid>
-      <pubDate>Sun, 23 Aug 2026 21:59:05 GMT</pubDate>
-      <description>出版年月: 2026/01 / 著者: 高野 海斗／編著 / 出版者: 講談社 / 新着として検知: 2026-08-23</description>
-    </item>
-    <item>
-      <title>[2026/08] インスタでつくるママのおうちキャリア</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000139898</link>
-      <guid isPermaLink="false">oml-tilcod-1002000139898</guid>
-      <pubDate>Fri, 21 Aug 2026 22:00:04 GMT</pubDate>
-      <description>出版年月: 2026/08 / 著者: 神野 まき／著 / 出版者: ビジネス社 / 新着として検知: 2026-08-21</description>
-    </item>
-    <item>
-      <title>[2026/08] 70歳からのスマホAI生活</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000142933</link>
-      <guid isPermaLink="false">oml-tilcod-1002000142933</guid>
-      <pubDate>Fri, 21 Aug 2026 21:59:04 GMT</pubDate>
-      <description>出版年月: 2026/08 / 著者: 吉田 昻平／著 / 出版者: Gakken / 新着として検知: 2026-08-21</description>
-    </item>
-    <item>
-      <title>[2026/07] AIと一緒に深める思考力</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000138952</link>
-      <guid isPermaLink="false">oml-tilcod-1002000138952</guid>
-      <pubDate>Tue, 18 Aug 2026 22:00:04 GMT</pubDate>
-      <description>出版年月: 2026/07 / 著者: 森 巧尚／著 / 出版者: マイナビ出版 / 新着として検知: 2026-08-18</description>
-    </item>
-    <item>
-      <title>[2026/07] 生成AI時代の情報検索入門</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000140633</link>
-      <guid isPermaLink="false">oml-tilcod-1002000140633</guid>
-      <pubDate>Wed, 12 Aug 2026 22:00:04 GMT</pubDate>
-      <description>出版年月: 2026/07 / 著者: 上岡 真紀子／編著 / 出版者: 慶應義塾大学出版会 / 新着として検知: 2026-08-12</description>
     </item>
   </channel>
 </rss>
