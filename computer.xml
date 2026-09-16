@@ -5,8 +5,15 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:00:05 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/02] 生成AIの正体</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000097694</link>
+      <guid isPermaLink="false">oml-tilcod-1002000097694</guid>
+      <pubDate>Wed, 16 Sep 2026 22:00:05 GMT</pubDate>
+      <description>出版年月: 2026/02 / 著者: 苫米地 英人／著 / 出版者: ビジネス社 / 新着として検知: 2026-09-16</description>
+    </item>
     <item>
       <title>[2026/07] ヒトとAI</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000142957</link>
@@ -418,13 +425,6 @@
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000126375</link>
       <guid isPermaLink="false">oml-tilcod-1002000126375</guid>
       <pubDate>Thu, 27 Aug 2026 21:45:04 GMT</pubDate>
-      <description>出版年月: 2026/05 / 出版者: インプレス / 新着として検知: 2026-08-27</description>
-    </item>
-    <item>
-      <title>[2026/05] 世界一やさしいChatGPT</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000126374</link>
-      <guid isPermaLink="false">oml-tilcod-1002000126374</guid>
-      <pubDate>Thu, 27 Aug 2026 21:44:04 GMT</pubDate>
       <description>出版年月: 2026/05 / 出版者: インプレス / 新着として検知: 2026-08-27</description>
     </item>
   </channel>
