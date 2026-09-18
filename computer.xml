@@ -5,8 +5,15 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:00:05 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/08] 生成AIのきほんとしくみ</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000147034</link>
+      <guid isPermaLink="false">oml-tilcod-1002000147034</guid>
+      <pubDate>Fri, 18 Sep 2026 22:00:05 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: 岩田 宇史／著 / 出版者: インプレス / 新着として検知: 2026-09-18</description>
+    </item>
     <item>
       <title>[2026/02] 生成AIの正体</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000097694</link>
@@ -419,13 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000139721</guid>
       <pubDate>Thu, 27 Aug 2026 21:46:04 GMT</pubDate>
       <description>出版年月: 2026/07 / 著者: ジーン・キム／著 / 出版者: 日経BP / 新着として検知: 2026-08-27</description>
-    </item>
-    <item>
-      <title>[2026/05] 世界一やさしいGemini</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000126375</link>
-      <guid isPermaLink="false">oml-tilcod-1002000126375</guid>
-      <pubDate>Thu, 27 Aug 2026 21:45:04 GMT</pubDate>
-      <description>出版年月: 2026/05 / 出版者: インプレス / 新着として検知: 2026-08-27</description>
     </item>
   </channel>
 </rss>
