@@ -5,8 +5,29 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 22:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 22:00:12 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/09] note×AIで毎月30万円稼ぐ!副業の教科書</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000148909</link>
+      <guid isPermaLink="false">oml-tilcod-1002000148909</guid>
+      <pubDate>Fri, 02 Oct 2026 22:00:12 GMT</pubDate>
+      <description>出版年月: 2026/09 / 著者: AIビジネス研究会／著 / 出版者: 宝島社 / 新着として検知: 2026-10-02</description>
+    </item>
+    <item>
+      <title>[2026/08] デジタル社会の歩き方</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000147579</link>
+      <guid isPermaLink="false">oml-tilcod-1002000147579</guid>
+      <pubDate>Fri, 02 Oct 2026 21:59:12 GMT</pubDate>
+      <description>出版年月: 2026/08 / 著者: 竹田 ダニエル／著 / 出版者: 講談社 / 新着として検知: 2026-10-02</description>
+    </item>
+    <item>
+      <title>[2026/07] Claude仕事術</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000138868</link>
+      <guid isPermaLink="false">oml-tilcod-1002000138868</guid>
+      <pubDate>Fri, 02 Oct 2026 21:58:12 GMT</pubDate>
+      <description>出版年月: 2026/07 / 著者: 佐藤 傑／著 / 出版者: SBクリエイティブ / 新着として検知: 2026-10-02</description>
+    </item>
     <item>
       <title>[2025/00] The AI con</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000140032</link>
@@ -405,27 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000141467</guid>
       <pubDate>Mon, 31 Aug 2026 21:47:04 GMT</pubDate>
       <description>出版年月: 2026/07 / 著者: 池田 朋弘／著 / 出版者: 芸術新聞社 / 新着として検知: 2026-08-31</description>
-    </item>
-    <item>
-      <title>[2026/07] 工学のためのPythonプログラミング</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000143054</link>
-      <guid isPermaLink="false">oml-tilcod-1002000143054</guid>
-      <pubDate>Mon, 31 Aug 2026 21:46:04 GMT</pubDate>
-      <description>出版年月: 2026/07 / 著者: 村木 正芳／著 / 出版者: 東京電機大学出版局 / 新着として検知: 2026-08-31</description>
-    </item>
-    <item>
-      <title>[2026/07] DevinではじめるAI駆動開発</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000141039</link>
-      <guid isPermaLink="false">oml-tilcod-1002000141039</guid>
-      <pubDate>Mon, 31 Aug 2026 21:45:04 GMT</pubDate>
-      <description>出版年月: 2026/07 / 著者: ULSコンサルティング株式会社／著 / 出版者: 日経BP / 新着として検知: 2026-08-31</description>
-    </item>
-    <item>
-      <title>[2026/07] Building Quality</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000141970</link>
-      <guid isPermaLink="false">oml-tilcod-1002000141970</guid>
-      <pubDate>Mon, 31 Aug 2026 21:44:04 GMT</pubDate>
-      <description>出版年月: 2026/07 / 著者: 山本 くにお／共著 / 出版者: オーム社 / 新着として検知: 2026-08-31</description>
     </item>
   </channel>
 </rss>
