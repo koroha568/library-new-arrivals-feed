@@ -5,8 +5,15 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:00:05 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2025/11] プロ目線のPodcastのつくり方</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000077890</link>
+      <guid isPermaLink="false">oml-tilcod-1002000077890</guid>
+      <pubDate>Wed, 07 Oct 2026 22:00:05 GMT</pubDate>
+      <description>出版年月: 2025/11 / 著者: 野村 高文／著 / 出版者: クロスメディア・パブリッシング / 新着として検知: 2026-10-07</description>
+    </item>
     <item>
       <title>[2026/09] できるGoogleスプレッドシート&amp;ドキュメント&amp;スライド</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000153111</link>
@@ -419,13 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000145161</guid>
       <pubDate>Fri, 04 Sep 2026 21:58:06 GMT</pubDate>
       <description>出版年月: 2026/08 / 著者: リンクアップ／著 / 出版者: 技術評論社 / 新着として検知: 2026-09-04</description>
-    </item>
-    <item>
-      <title>[2026/02] インターネット白書</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000112912</link>
-      <guid isPermaLink="false">oml-tilcod-1002000112912</guid>
-      <pubDate>Fri, 04 Sep 2026 21:57:06 GMT</pubDate>
-      <description>出版年月: 2026/02 / 著者: インターネット白書編集委員会／編 / 出版者: インプレスNextPublishing / 新着として検知: 2026-09-04</description>
     </item>
   </channel>
 </rss>
