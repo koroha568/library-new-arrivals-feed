@@ -5,8 +5,22 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 22:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:00:06 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/08] 60代から使いこなすLINE・X・Instagram・TikTok</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000144137</link>
+      <guid isPermaLink="false">oml-tilcod-1002000144137</guid>
+      <pubDate>Sun, 11 Oct 2026 22:00:06 GMT</pubDate>
+      <description>出版年月: 2026/08 / 出版者: ワン・パブリッシング / 新着として検知: 2026-10-11</description>
+    </item>
+    <item>
+      <title>[2026/07] 猫でもわかるChatGPT</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000139465</link>
+      <guid isPermaLink="false">oml-tilcod-1002000139465</guid>
+      <pubDate>Sun, 11 Oct 2026 21:59:06 GMT</pubDate>
+      <description>出版年月: 2026/07 / 著者: 古川 尚美／著 / 出版者: もふ出版 / 新着として検知: 2026-10-11</description>
+    </item>
     <item>
       <title>[2025/11] プロ目線のPodcastのつくり方</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000077890</link>
@@ -411,20 +425,6 @@
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000145461</link>
       <guid isPermaLink="false">oml-tilcod-1002000145461</guid>
       <pubDate>Fri, 04 Sep 2026 22:00:06 GMT</pubDate>
-      <description>出版年月: 2026/08 / 著者: リンクアップ／著 / 出版者: 技術評論社 / 新着として検知: 2026-09-04</description>
-    </item>
-    <item>
-      <title>[2026/08] 「コンピュータ、マジわからん」と思ったときに読む本</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000144440</link>
-      <guid isPermaLink="false">oml-tilcod-1002000144440</guid>
-      <pubDate>Fri, 04 Sep 2026 21:59:06 GMT</pubDate>
-      <description>出版年月: 2026/08 / 著者: 小高 知宏／著 / 出版者: オーム社 / 新着として検知: 2026-09-04</description>
-    </item>
-    <item>
-      <title>[2026/08] はじめてのMacBook Neo 100%入門ガイド</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000145161</link>
-      <guid isPermaLink="false">oml-tilcod-1002000145161</guid>
-      <pubDate>Fri, 04 Sep 2026 21:58:06 GMT</pubDate>
       <description>出版年月: 2026/08 / 著者: リンクアップ／著 / 出版者: 技術評論社 / 新着として検知: 2026-09-04</description>
     </item>
   </channel>
