@@ -5,8 +5,50 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:00:04 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/11] ChatGPTの「わからない!」をぜんぶ解決する本</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000160492</link>
+      <guid isPermaLink="false">oml-tilcod-1002000160492</guid>
+      <pubDate>Tue, 17 Nov 2026 22:00:04 GMT</pubDate>
+      <description>出版年月: 2026/11 / 出版者: 宝島社 / 新着として検知: 2026-11-17</description>
+    </item>
+    <item>
+      <title>[2026/10] アルゴリズムのしくみと考え方がこれ1冊でしっかりわかる教科書</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000160094</link>
+      <guid isPermaLink="false">oml-tilcod-1002000160094</guid>
+      <pubDate>Tue, 17 Nov 2026 21:59:04 GMT</pubDate>
+      <description>出版年月: 2026/10 / 著者: 丸山 紀代／著 / 出版者: 技術評論社 / 新着として検知: 2026-11-17</description>
+    </item>
+    <item>
+      <title>[2026/10] インターネットは空から降ってこない</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000159709</link>
+      <guid isPermaLink="false">oml-tilcod-1002000159709</guid>
+      <pubDate>Tue, 17 Nov 2026 21:58:04 GMT</pubDate>
+      <description>出版年月: 2026/10 / 著者: 日本インターネットプロバイダー協会広報PR部会／著 / 出版者: インプレス / 新着として検知: 2026-11-17</description>
+    </item>
+    <item>
+      <title>[2026/10] AI時代の「問い」を立てる力</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000160818</link>
+      <guid isPermaLink="false">oml-tilcod-1002000160818</guid>
+      <pubDate>Tue, 17 Nov 2026 21:57:04 GMT</pubDate>
+      <description>出版年月: 2026/10 / 著者: 宮田 裕章／著 / 出版者: 光文社 / 新着として検知: 2026-11-17</description>
+    </item>
+    <item>
+      <title>[2026/10] note完全マニュアル</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000158941</link>
+      <guid isPermaLink="false">oml-tilcod-1002000158941</guid>
+      <pubDate>Tue, 17 Nov 2026 21:56:04 GMT</pubDate>
+      <description>出版年月: 2026/10 / 著者: 八木 重和／著 / 出版者: 秀和システム新社 / 新着として検知: 2026-11-17</description>
+    </item>
+    <item>
+      <title>[2026/10] マイコン電子工作&amp;プログラミングスターターブック</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000159293</link>
+      <guid isPermaLink="false">oml-tilcod-1002000159293</guid>
+      <pubDate>Tue, 17 Nov 2026 21:55:04 GMT</pubDate>
+      <description>出版年月: 2026/10 / 著者: 藤本 壱／著 / 出版者: 技術評論社 / 新着として検知: 2026-11-17</description>
+    </item>
     <item>
       <title>[2026/10] 今すぐ使えるかんたんWord完全ガイドブック困った解決&amp;便利技</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000158306</link>
@@ -384,48 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000154894</guid>
       <pubDate>Tue, 10 Nov 2026 21:14:05 GMT</pubDate>
       <description>出版年月: 2026/09 / 著者: 九条 林檎／著 / 出版者: ソーテック社 / 新着として検知: 2026-11-10</description>
-    </item>
-    <item>
-      <title>[2026/09] ゼロトラストのしくみと導入がこれ1冊でしっかりわかる教科書</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000150634</link>
-      <guid isPermaLink="false">oml-tilcod-1002000150634</guid>
-      <pubDate>Tue, 10 Nov 2026 21:13:05 GMT</pubDate>
-      <description>出版年月: 2026/09 / 著者: 長谷川 丈一／著 / 出版者: 技術評論社 / 新着として検知: 2026-11-10</description>
-    </item>
-    <item>
-      <title>[2026/09] ぜんぶ無料!60歳からのAIまるごと使いこなし術</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000143447</link>
-      <guid isPermaLink="false">oml-tilcod-1002000143447</guid>
-      <pubDate>Tue, 10 Nov 2026 21:12:05 GMT</pubDate>
-      <description>出版年月: 2026/09 / 出版者: 晋遊舎 / 新着として検知: 2026-11-10</description>
-    </item>
-    <item>
-      <title>[2026/09] ソフトウェアエンジニアリングの基礎</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000153149</link>
-      <guid isPermaLink="false">oml-tilcod-1002000153149</guid>
-      <pubDate>Tue, 10 Nov 2026 21:11:05 GMT</pubDate>
-      <description>出版年月: 2026/09 / 著者: Nathaniel Schutta／著 / 出版者: オライリー・ジャパン / 新着として検知: 2026-11-10</description>
-    </item>
-    <item>
-      <title>[2026/09] 知能爆発</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000157031</link>
-      <guid isPermaLink="false">oml-tilcod-1002000157031</guid>
-      <pubDate>Tue, 10 Nov 2026 21:10:05 GMT</pubDate>
-      <description>出版年月: 2026/09 / 著者: 有路 翔太／著 / 出版者: 講談社 / 新着として検知: 2026-11-10</description>
-    </item>
-    <item>
-      <title>[2026/09] つくりながら学ぶ!リアルタイムOS自作入門</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000154137</link>
-      <guid isPermaLink="false">oml-tilcod-1002000154137</guid>
-      <pubDate>Tue, 10 Nov 2026 21:09:05 GMT</pubDate>
-      <description>出版年月: 2026/09 / 著者: 矢野倉 伊織／著 / 出版者: マイナビ出版 / 新着として検知: 2026-11-10</description>
-    </item>
-    <item>
-      <title>[2026/09] 日本パソコン黎明記</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000155960</link>
-      <guid isPermaLink="false">oml-tilcod-1002000155960</guid>
-      <pubDate>Tue, 10 Nov 2026 21:08:05 GMT</pubDate>
-      <description>出版年月: 2026/09 / 著者: 山崎 仁史／著 / 出版者: 工学社 / 新着として検知: 2026-11-10</description>
     </item>
   </channel>
 </rss>
