@@ -5,8 +5,22 @@
     <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewMenuToMsgNewListAction.do?newMenuCode=11</link>
     <description>コンピュータ・情報学の新着資料。新しく入ったものが上、同日内は出版年月の新しい順。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 22:00:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 22:00:02 GMT</lastBuildDate>
     <atom:link href="https://koroha568.github.io/library-new-arrivals-feed/computer.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[2026/09] 画像・動画生成AIスタートガイド</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000154306</link>
+      <guid isPermaLink="false">oml-tilcod-1002000154306</guid>
+      <pubDate>Mon, 23 Nov 2026 22:00:02 GMT</pubDate>
+      <description>出版年月: 2026/09 / 著者: AICU media編集部／著 / 出版者: SBクリエイティブ / 新着として検知: 2026-11-23</description>
+    </item>
+    <item>
+      <title>[2026/09] パランティア</title>
+      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000155251</link>
+      <guid isPermaLink="false">oml-tilcod-1002000155251</guid>
+      <pubDate>Mon, 23 Nov 2026 21:59:02 GMT</pubDate>
+      <description>出版年月: 2026/09 / 著者: 堀内 進之介／著 / 出版者: 晶文社 / 新着として検知: 2026-11-23</description>
+    </item>
     <item>
       <title>[2026/11] インフラエンジニアの知識と実務がこれ1冊でしっかりわかる教科書</title>
       <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000161462</link>
@@ -412,20 +426,6 @@
       <guid isPermaLink="false">oml-tilcod-1002000151220</guid>
       <pubDate>Tue, 10 Nov 2026 21:30:05 GMT</pubDate>
       <description>出版年月: 2026/09 / 著者: 甘利 俊一／編 / 出版者: 帝京大学出版会 / 新着として検知: 2026-11-10</description>
-    </item>
-    <item>
-      <title>[2026/09] AIとは何か</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000151867</link>
-      <guid isPermaLink="false">oml-tilcod-1002000151867</guid>
-      <pubDate>Tue, 10 Nov 2026 21:29:05 GMT</pubDate>
-      <description>出版年月: 2026/09 / 著者: 坂村 健／著 / 出版者: KADOKAWA / 新着として検知: 2026-11-10</description>
-    </item>
-    <item>
-      <title>[2026/09] AIはなぜウソをつく?生成AIのしくみがわかる本</title>
-      <link>https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000155569</link>
-      <guid isPermaLink="false">oml-tilcod-1002000155569</guid>
-      <pubDate>Tue, 10 Nov 2026 21:28:05 GMT</pubDate>
-      <description>出版年月: 2026/09 / 著者: 小笠原 種高／著 / 出版者: 工学社 / 新着として検知: 2026-11-10</description>
     </item>
   </channel>
 </rss>
